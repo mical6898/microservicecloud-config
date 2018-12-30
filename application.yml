@@ -7,10 +7,10 @@
 spring:
   profiles: dev
   application: 
-    name: microservicecloud-config-mial-dev
+    name: microservicecloud-config-mical-dev
     
 ---
 spring:
   profiles: test
   application: 
-    name: microservicecloud-config-mial-test
+    name: microservicecloud-config-mical-test
